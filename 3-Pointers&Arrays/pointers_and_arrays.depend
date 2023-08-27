@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1693128874 source:c:\users\yasli\c++\deitel_new\lecture\pointers_and_arrays\main.cpp
+	<iostream>
+	<string>
+	"addressPractice.h"
+	"swapPractice.h"
+	"arrayPractice.h"
+	"shallowCopyPractice.h"
+	"deepCopyPractice.h"
+	"stringPractice.h"
+
+1693081820 c:\users\yasli\c++\deitel_new\lecture\pointers_and_arrays\addresspractice.h
+	<iostream>
+
+1693084949 c:\users\yasli\c++\deitel_new\lecture\pointers_and_arrays\swappractice.h
+	<iostream>
+
+1693087366 c:\users\yasli\c++\deitel_new\lecture\pointers_and_arrays\arraypractice.h
+
+1693128056 c:\users\yasli\c++\deitel_new\lecture\pointers_and_arrays\shallowcopypractice.h
+
+1693128526 c:\users\yasli\c++\deitel_new\lecture\pointers_and_arrays\deepcopypractice.h
+
+1693129297 c:\users\yasli\c++\deitel_new\lecture\pointers_and_arrays\stringpractice.h
+
