@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1692824997 source:c:\users\yasli\c++\deitel_new\lecture\introduction\main.cpp
+	"GradeBook.h"
+
+1692825013 c:\users\yasli\c++\deitel_new\lecture\introduction\gradebook.h
+	<string>
+
+1692825103 source:c:\users\yasli\c++\deitel_new\lecture\introduction\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
