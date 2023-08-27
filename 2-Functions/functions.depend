@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1692870433 source:c:\users\yasli\c++\deitel_new\lecture\functions\main.cpp
+	"functionTemplate.h"
+	<iostream>
+	"Student.h"
+
+1692870374 c:\users\yasli\c++\deitel_new\lecture\functions\functiontemplate.h
+
+1692870733 c:\users\yasli\c++\deitel_new\lecture\functions\student.h
+	<iostream>
+
