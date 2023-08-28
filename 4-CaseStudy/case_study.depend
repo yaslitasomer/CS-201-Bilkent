@@ -1,12 +1,15 @@
 # depslib dependency file v1.0
-1693216644 source:c:\users\yasli\c++\deitel_new\lecture\case_study\intarray.cpp
+1693222481 source:c:\users\yasli\c++\deitel_new\lecture\case_study\intarray.cpp
 	"IntArray.h"
 
 1693216637 c:\users\yasli\c++\deitel_new\lecture\case_study\intarray.h
 	<iostream>
 
-1693216660 source:c:\users\yasli\c++\deitel_new\lecture\case_study\main.cpp
+1693253906 source:c:\users\yasli\c++\deitel_new\lecture\case_study\main.cpp
 	<exception>
 	"IntArray.h"
+	"Test.h"
 	<iostream>
+
+1693252560 c:\users\yasli\c++\deitel_new\lecture\case_study\test.h
 
