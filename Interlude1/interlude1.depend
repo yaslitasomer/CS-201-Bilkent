@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1693350664 source:c:\users\yasli\c++\deitel_new\lecture\interlude1\plainbox.cpp
+	"PlainBox.h"
+
+1693389099 c:\users\yasli\c++\deitel_new\lecture\interlude1\plainbox.h
+	"BoxInterface.h"
+
+1693387860 source:c:\users\yasli\c++\deitel_new\lecture\interlude1\main.cpp
+	<iostream>
+	"PlainBox.h"
+	"ToyBox.h"
+	"MagicBox.h"
+
+1693339849 source:c:\users\yasli\c++\deitel_new\lecture\interlude1\toybox.cpp
+	"ToyBox.h"
+
+1693388747 c:\users\yasli\c++\deitel_new\lecture\interlude1\toybox.h
+	"PlainBox.h"
+
+1693342163 c:\users\yasli\c++\deitel_new\lecture\interlude1\toybox.cpp
+
+1693349416 c:\users\yasli\c++\deitel_new\lecture\interlude1\plainbox.cpp
+	"PlainBox.h"
+
+1693389241 c:\users\yasli\c++\deitel_new\lecture\interlude1\magicbox.h
+	"PlainBox.h"
+
+1693388362 c:\users\yasli\c++\deitel_new\lecture\interlude1\boxinterface.h
+
