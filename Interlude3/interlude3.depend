@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1693413030 source:c:\users\yasli\c++\deitel_new\lecture\interlude3\main.cpp
+	<iostream>
+	"PlainBox.h"
+	"MagicBox.h"
+	"ToyBox.h"
+
+1693413005 c:\users\yasli\c++\deitel_new\lecture\interlude3\plainbox.h
+
+1693412124 c:\users\yasli\c++\deitel_new\lecture\interlude3\magicbox.h
+	"PlainBox.h"
+
+1693412147 c:\users\yasli\c++\deitel_new\lecture\interlude3\toybox.h
+	"PlainBox.h"
+
